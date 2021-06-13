@@ -30,7 +30,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb0df20a-1038-4dc6-8c39-1c11168fe618" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/DessertTimer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/DessertTimer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/dessertclicker/MainActivity.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623603652181</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Menerapkan Lifecycle Observer">
+      <created>1623603988120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623603988120</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,9 +199,14 @@
     <MESSAGE value="Mempelajari method onCreate dan Logging" />
     <MESSAGE value="Menggunakan Timber untuk Logging" />
     <MESSAGE value="Menggunakan Timer pada Lifecycle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menggunakan Timer pada Lifecycle" />
+    <MESSAGE value="Menerapkan Lifecycle Observer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menerapkan Lifecycle Observer" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="432" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1623605038770">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="432" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1623605038770" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1623599559017">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
